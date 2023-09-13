@@ -1,0 +1,204 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@300&display=swap" rel="stylesheet">
+html {
+    padding: 0;
+    margin: 0;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+.nav:first-child {
+ margin-left: 250px;
+ margin-right: 50px;
+ font-size: 26px;
+ font-weight: 700;
+ text-decoration: none;
+ list-style-type: none;
+ font-family: 'Raleway';
+
+    
+}
+.ul {
+    display: flex;
+  align-items: center;
+    margin-top: 20px;;
+}
+.web {
+color: blue;
+font-family: 'Raleway';
+}
+.nav {
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 15px;;
+    font-family: 'Roboto', sans-serif;
+transition: 0.1s linear;
+}
+.nav:hover {
+    color:#2196F3;
+}
+.nav:first-child:hover {
+    color:black;
+}
+.nav-2 {
+margin-left: 450px;
+margin-right: 70px;
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+font-size: 14px;
+list-style: none;
+transition: 0.2s linear;
+}
+.nav-2:last-child {
+    margin-left: 0px;
+}
+.nav-2:hover {
+color:#2196F3;
+}
+.box {
+    background-color:#2F303A;
+    width: 1920px;
+    height: 600px;
+    margin: auto;
+    margin-top: 20px;
+}
+.title {
+    text-align: center;
+   padding-top: 200px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 900;
+   font-size: 49px;
+   color:white;
+}
+.button {
+background-color: #2196F3;
+color:white;
+padding: 15px 32px 15px 32px;
+border-radius: 5%;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 700;
+border: none;
+margin-left: 840px;
+}
+.button:hover {
+    color:blue;
+}
+
+.title-2 {
+    font-weight: 400;
+    font-size: 14px;
+    width: 270px;
+    height: 72px;
+    color:  #757575;
+    font-family: 'Roboto', sans-serif;
+}
+.box-2 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.div {
+   margin: auto;
+   margin-right: 0px;
+   margin-left: 130px;
+}
+.title-card {
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.title-card {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.photo-cards {
+    margin-top: 110px;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+
+}
+.img {
+    margin-right: 25px;
+}
+.img-card {
+    width: 270px;
+    height: 260px;
+}
+.team {
+    display: flex;
+    justify-content: center;
+ margin-bottom: 124px;
+}
+.title-3 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 188px;
+}
+.team-cards {
+    margin-right: 30px;
+}
+.card-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+.card-text {
+    text-align: center;
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.title-footer {
+    color:  #2196F3;
+    font-weight: 700;
+    font-size: 26px;
+}
+.span {
+    color: white;
+}
+footer {
+    background-color: #2F303A;
+    width: 1920px;
+    height: 252px;
+}
+.footer {
+   padding-top: 50px;
+    margin-left: 170px;
+    display: block;
+}
+.a-footer {
+    text-decoration: none;
+    color: white;
+    transition: 0.2s linear;
+    display: block;
+}
+.a-footer:hover {
+    color:#2196F3;
+}
+.a-footer-2 {
+    display: block;
+    margin-top: 9px;
+    text-decoration: none;
+    color: #FFFFFF99;
+    transition: 0.2s linear;
+}
+.a-footer-2:hover {
+    color:#2196F3;
+}
